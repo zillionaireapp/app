@@ -1,0 +1,20 @@
+{
+  "name": "zillionaire.api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.0.10",
+    "typeorm": "^0.2.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Ron Tran",
+    "email": "ron_tran@hotmail.com"
+  },
+  "license": "ISC"
+}
